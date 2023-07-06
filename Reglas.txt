@@ -1,0 +1,60 @@
+
+
+██████  ███████  ██████  ██       █████  ███████ 
+██   ██ ██      ██       ██      ██   ██ ██      
+██████  █████   ██   ███ ██      ███████ ███████ 
+██   ██ ██      ██    ██ ██      ██   ██      ██ 
+██   ██ ███████  ██████  ███████ ██   ██ ███████ 
+
+
+
+
+Objetivo del juego
+El Rummy es un juego de cartas de 2 a 4 jugadores. El objetivo principal es quedarse sin cartas o quedarse con el menor puntaje posible en su mazo.
+
+Para ello se crearán escaleras del mismo palo o grupos de 3 o más cartas del mismo valor.
+
+El jugador 1 puede tomar cartas del mazo de descarte del jugador 2 y asi susecivamente si se jugan mas de 2 personas.
+
+Esta carta agregada obliga al jugador a botar una, ya que siempre se tiene que quedar con 10 cartas en la mano  
+
+Modalidades de juego
+Exprés (1 ronda)
+
+Para jugar partidas rápidas. Se juega a una ronda y gana el que consigue cerrar antes.
+
+Este juego es basado en la modalidad de juego a puntos
+
+En la cual el jugador busca quedarse con la menor cantidad de puntos posibles para poder ganarles a los demas jugadores
+
+
+Valor de las cartas
+
+Valor de las cartas en caso de no poder ligarlas:
+
+Del 2 al 10: su valor.
+J: 10 puntos
+Q: 10 puntos
+K: 10 puntos
+As: 1 punto
+Cómo jugar al Rummy
+Reparto de cartas
+
+Para 2 jugadores, se reparten 10 cartas a cada uno. 
+Tras repartir, se situará una carta boca arriba. 
+El resto se dejará en el mazo boca abajo para robar.
+
+Al principio de la partida se decide por sorteo automático el jugador que es mano, es decir, el que empieza a jugar.
+
+
+Desarrollo del juego
+Al empezar su turno, cada jugador debe robar del mazo o de la pila de descartes. Tras ello, puede colocar sus jugadas sobre la mesa (escaleras o combinaciones 3 ó 4 cartas iguales).
+
+Para terminar su turno, el jugador debe descartar obligatoriamente una carta de su mano y depositarla boca arriba pasando el turno al jugador de su izquierda (sentido horario).
+
+Si se terminan las cartas del mazo se acaba la partida, dando como ganador a la persona con menos puntos en su mano
+
+!!! QUE LO DISFRUTEN!!!!	
+
+
+
